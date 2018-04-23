@@ -1,0 +1,21 @@
+# question ok
+vrai-faux
+10
+L’explorateur islandais Leif Eriksson aurait été le premier Européen à avoir mis les pieds en Amérique du Nord.
+true
+# question inconnue
+qui-tue
+10
+Avez-vous déjà eu une expérience du tunnel de lumière?
+false
+# question invalide
+# devrait annuler le chargement des questions
+vrai-faux
+10
+Est-ce que cette question est valide
+non
+# question ok
+vrai-faux
+10
+L’explorateur islandais Leif Eriksson aurait été le premier Européen à avoir mis les pieds en Amérique du Nord.
+true

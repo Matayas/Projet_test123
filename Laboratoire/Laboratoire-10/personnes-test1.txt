@@ -1,0 +1,111 @@
+# -------------------------------------
+# afficher la base de données vide
+# -------------------------------------
+afficher
+# -------------------------------------
+# modifier une personne inexistante
+# -------------------------------------
+modifier
+-1
+# -------------------------------------
+# ajouter une personne
+# -------------------------------------
+ajouter
+Hall
+Glenn
+Homme
+# l'affichage ne devrait rien faire afficher puisque
+# l'on a pas encore executee la commande
+afficher
+?
+# executer les commandes en suspend
+executer
+?
+afficher
+# -------------------------------------
+# ajouter des personnes
+# -------------------------------------
+ajouter
+Binette
+Bob
+Homme
+ajouter
+Laplante
+Fleur
+Femme
+# executer et faire afficher la bd
+executer
+afficher
+# -------------------------------------
+# ajouter des personnes sans executer
+# puis annuler les commandes
+# -------------------------------------
+ajouter
+Doe
+John
+Homme
+ajouter
+Doe
+Jane
+Femme
+?
+annuler
+?
+afficher
+# -------------------------------------
+# annuler la dernière commande d'ajout
+# -------------------------------------
+?
+annuler
+?
+afficher
+# -------------------------------------
+# supprimer une personne
+# -------------------------------------
+ajouter
+Doe
+Jane
+Femme
+ajouter
+Doe
+John
+Homme
+executer
+afficher
+supprimer
+100
+supprimer
+1
+executer
+afficher
+# -------------------------------------
+# annuler la dernière commande de suppression
+# -------------------------------------
+annuler
+afficher
+# -------------------------------------
+# modifier partiellement une personne
+# -------------------------------------
+modifier
+1
+
+Bobette
+
+executer
+afficher
+# -------------------------------------
+# annuler la dernière commande de modification
+# -------------------------------------
+annuler
+afficher
+# -------------------------------------
+# modifier totalement une personne
+# -------------------------------------
+modifier
+1
+Thornton
+Billy-bob
+Homer
+Femme
+executer
+afficher

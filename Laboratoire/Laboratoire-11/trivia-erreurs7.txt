@@ -1,0 +1,5 @@
+# question incomplète
+# devrait annuler le chargement des questions
+choix-simple
+10
+En quelle année Christophe Colomb débarque-t-il en Amérique ?

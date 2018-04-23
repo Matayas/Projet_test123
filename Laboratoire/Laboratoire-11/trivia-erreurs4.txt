@@ -1,0 +1,6 @@
+# question invalide
+# devrait annuler le chargement des questions
+vrai-faux
+
+Est-ce que cette question est valide
+false

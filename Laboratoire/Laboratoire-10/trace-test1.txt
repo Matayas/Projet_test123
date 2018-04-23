@@ -1,0 +1,187 @@
+Les commandes sont: 
+ ajouter, supprimer, modifier, annuler, parse
+ CTRL-D pour quitter
+
+(saisir votre commande) > afficher
+
+La base de données est vide
+
+(saisir votre commande) > modifier
+Indiquez le numéro d'id > -1
+personne non trouvée
+
+(saisir votre commande) > ajouter
+Nom: Hall
+Prénom: Glenn
+Sexe: Homme
+
+(saisir votre commande) > afficher
+
+La base de données est vide
+
+(saisir votre commande) > ?
+1 commande(s) en suspend
+
+(saisir votre commande) > executer
+
+(saisir votre commande) > ?
+0 commande(s) en suspend
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+1 personne(s)
+
+
+(saisir votre commande) > ajouter
+Nom: Binette
+Prénom: Bob
+Sexe: Homme
+
+(saisir votre commande) > ajouter
+Nom: Laplante
+Prénom: Fleur
+Sexe: Femme
+
+(saisir votre commande) > executer
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+02 Fleur               Laplante            Femme     
+3 personne(s)
+
+
+(saisir votre commande) > ajouter
+Nom: Doe
+Prénom: John
+Sexe: Homme
+
+(saisir votre commande) > ajouter
+Nom: Doe
+Prénom: Jane
+Sexe: Femme
+
+(saisir votre commande) > ?
+2 commande(s) en suspend
+
+(saisir votre commande) > annuler
+
+(saisir votre commande) > ?
+0 commande(s) en suspend
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+02 Fleur               Laplante            Femme     
+3 personne(s)
+
+
+(saisir votre commande) > ?
+0 commande(s) en suspend
+
+(saisir votre commande) > annuler
+
+(saisir votre commande) > ?
+0 commande(s) en suspend
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+2 personne(s)
+
+
+(saisir votre commande) > ajouter
+Nom: Doe
+Prénom: Jane
+Sexe: Femme
+
+(saisir votre commande) > ajouter
+Nom: Doe
+Prénom: John
+Sexe: Homme
+
+(saisir votre commande) > executer
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+05 Jane                Doe                 Femme     
+06 John                Doe                 Homme     
+4 personne(s)
+
+
+(saisir votre commande) > supprimer
+Indiquez le numéro d'id > 100
+personne non trouvée
+
+(saisir votre commande) > supprimer
+Indiquez le numéro d'id > 1
+
+(saisir votre commande) > executer
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+05 Jane                Doe                 Femme     
+06 John                Doe                 Homme     
+3 personne(s)
+
+
+(saisir votre commande) > annuler
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+05 Jane                Doe                 Femme     
+06 John                Doe                 Homme     
+4 personne(s)
+
+
+(saisir votre commande) > modifier
+Indiquez le numéro d'id > 1
+Nom (Binette): 
+Prénom (Bob): Bobette
+Sexe (Homme): 
+
+(saisir votre commande) > executer
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bobette             Binette             Homme     
+05 Jane                Doe                 Femme     
+06 John                Doe                 Homme     
+4 personne(s)
+
+
+(saisir votre commande) > annuler
+
+(saisir votre commande) > afficher
+
+id prenom              nom                 sexe      
+00 Glenn               Hall                Homme     
+01 Bob                 Binette             Homme     
+05 Jane                Doe                 Femme     
+06 John                Doe                 Homme     
+4 personne(s)
+
+
+(saisir votre commande) > modifier
+Indiquez le numéro d'id > 1
+Nom (Binette): Thornton
+Prénom (Bob): Billy-bob
+Sexe (Homme): Homer

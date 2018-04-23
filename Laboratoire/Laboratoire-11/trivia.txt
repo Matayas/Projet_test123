@@ -1,0 +1,131 @@
+# ----------------------------------------------------------------
+# Références
+# http://quipoquiz.com/fr/
+# http://ici.radio-canada.ca/sujet/jeu-questionnaire-quiz/
+# http://www.laculturegenerale.com/60-tests-de-culture-generale1/
+# ----------------------------------------------------------------
+# --------------
+vrai-faux
+10
+L’explorateur islandais Leif Eriksson aurait été le premier Européen à avoir mis les pieds en Amérique du Nord.
+true
+# --------------
+choix-simple
+10
+Les Jeux olympiques d’hiver ont eu lieu pour la première fois en...
+1924,1896,1948,1964
+# --------------
+choix-simple
+10
+Les États-Unis ont renoncé à tous ces accords, sauf un. Lequel?
+L'Accord de libre-échange nord-américain,L’Accord de Paris sur le climat,Le Partenariat transpacifique,Le Pacte mondial sur les migrations
+# --------------
+reponse-courte
+15
+Quelle est la couleur du cheval blanc de Napoléon
+blanc
+# --------------
+choix-simple
+5
+Que signifie l'adjectif volubile ?
+Qui parle beaucoup,Qui parle peu,Qui est gros et gras,Qui est agressif
+# --------------
+choix-simple
+10
+A quel animal l’adjectif «hippique » se rapporte-t-il ?
+Au cheval,Au chien, Aucanard,Au hibou
+# --------------
+choix-simple
+15
+Quel groupe de musique est composé de deux DJ portant des casques de robot ?
+Draf Punk,Skrillex,The Chemical Brothers,Cassius
+# --------------
+choix-simple
+10
+Quel président succède à Georges Bush père en 1992 ?
+Bill Clinton,Barack Obama,Georges Bush fils,Ronald Reagan
+# --------------
+choix-simple
+10
+Quel est le plus petit État du monde ?
+Le Vatican,Saint-Marin,Andorre,Monaco
+# --------------
+vrai-faux
+10
+Le pingouin est-il un oiseau ?
+true
+# --------------
+choix-simple
+5
+Quelle profession est concernée par le serment d’Hippocrate ?
+Médecin,Avocat,Pharmacien,Juge
+# --------------
+choix-simple
+15
+Choisissez la bonne forme : elle ... le café chez elle, par elle-même !
+moud,moule
+# --------------
+vrai-faux
+10
+Un pentagone possède sept côtés ?
+false
+# --------------
+vrai-faux
+10
+La Nouvelle-Zélande se trouve dans l'océan Antartique ?
+false
+# --------------
+reponse-courte
+10
+De quel groupe Jim Morrison était-il le chanteur ?
+The Doors
+# --------------
+choix-simple
+5
+Quel pays surnomme-t-on « Le pays du Soleil levant » ?
+Le Japon,La Chine,La Corée, La Taïlande
+# --------------
+choix-simple
+15
+Quel philosophe conclut “Je pense, donc je suis.” ?
+Descartes,Socrate,Hegel,Heidegger
+# --------------
+reponse-courte
+15
+Dans quel film trouve-t-on la célèbre réplique “I’ll be back” ?
+Terminator
+# --------------
+reponse-courte
+5
+Que collectionne un philatéliste ?
+Des timbres
+# --------------
+choix-simple
+10
+En quelle année Christophe Colomb débarque-t-il en Amérique ?
+1492,1515,1602,1453
+# --------------
+choix-simple
+10
+"Dieu et mon droit". De quel pays est-ce la devise ?
+Du Royaume-Uni,Du Sénégal,D'Andorre,De la Belgique
+# --------------
+reponse-courte
+5
+Je suis le nom d’un ouragan qui a été particulièrement dévastateur cette année.
+Irma
+# --------------
+choix-simple
+10
+Dans quel univers se situe la « Terre du milieu » ?
+Le Seigneur des anneaux,La Bible,Le Trône de fer,Le Monde de Narnia
+# --------------
+choix-simple
+15
+Selon la légende, quel savant grec s’est écrié “Eureka” en prenant son bain ?
+Archimède,Pythagore,Hérodote,Thalès
+# --------------
+reponse-courte
+10
+En quelle année Adolf Hitler prend-il le pouvoir en Allemagne ?
+1933

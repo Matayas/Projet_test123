@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Laboratoire-11   (exceptions) (2)" type="Application" factoryName="Application">
+    <envs>
+      <env name="test-file" value="Laboratoire-11/trivia-test2.txt" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="aaaa99999999.laboratoire11.Application" />
+    <module name="Laboratoire-11" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/.." />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,16 @@
+# question ok
+vrai-faux
+10
+L’explorateur islandais Leif Eriksson aurait été le premier Européen à avoir mis les pieds en Amérique du Nord.
+true
+# question invalide
+# devrait annuler le chargement des questions
+vrai-faux
+qwerty
+Est-ce que cette question est valide
+false
+# question ok
+vrai-faux
+10
+L’explorateur islandais Leif Eriksson aurait été le premier Européen à avoir mis les pieds en Amérique du Nord.
+true

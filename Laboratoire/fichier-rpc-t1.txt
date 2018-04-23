@@ -1,0 +1,132 @@
+# ------------------------------------------------------
+# Première partie
+# On valide:
+#    la saisie du nombre de joueurs
+#    la saisie du nombre de robots
+#    la saisie de la main
+#    la saisie de la question rejouer
+# ------------------------------------------------------
+# Combien de joueurs êtes vous (1 à 6 joueurs)
+0
+-1
+7
+10
+1
+# Quelle est le prénom du premier joueur
+Glenn
+# Quelle est le nom du premier joueur
+Hall
+# Combien de joueurs robots voulez-vous (1,3,5)
+0
+2
+4
+6
+1
+# Glenn Hall, c'est à votre tour de choisir votre main
+tata
+Roche
+# ! Ici, peut-être que c'est une partie nulle, on va continuer de tapper roche pour être sûr que la partie se termine
+# ! De toute façon, la question suivante va ignorer ces entrées
+Roche
+Roche
+Roche
+Roche
+Roche
+Roche
+Roche
+Roche
+Roche
+# Voulez-vous rejouer
+sdfc
+oUi
+# ------------------------------------------------------
+# Deuxième partie
+# On valide:
+#    qu'on puisse rejouer une partie
+# ------------------------------------------------------
+# Combien de joueurs êtes vous (1 à 6 joueurs)
+1
+# Quelle est le prénom du premier joueur
+Glenn
+# Quelle est le nom du premier joueur
+Hall
+# Combien de joueurs robots voulez-vous (1,3,5)
+1
+# Glenn Hall, c'est à votre tour de choisir votre main
+Papier
+# ! Ici, peut-être que c'est une partie nulle, on va continuer de tapper roche pour être sûr que la partie se termine
+# ! De toute façon, la question suivante va ignorer ces entrées
+Roche
+Roche
+Roche
+Roche
+Roche
+# Voulez-vous rejouer
+o
+# ------------------------------------------------------
+# Troisième partie
+# On valide:
+#    le nombre de robots pair
+#    les matchs nuls
+# ------------------------------------------------------
+# Combien de joueurs êtes vous (1 à 6 joueurs)
+2
+# Quelle est le prénom du premier joueur
+Glenn
+# Quelle est le nom du premier joueur
+Hall
+# Quelle est le prénom du second joueur
+Jean
+# Quelle est le nom du second joueur
+Tremblay
+# Combien de joueurs robots voulez-vous (0,2,4)
+1
+3
+5
+6
+0
+# Glenn Hall, c'est à votre tour de choisir votre main
+Papier
+# Jean Tremblay, c'est à votre tour de choisir votre main
+Papier
+# On continue de tester le match nul
+Ciseaux
+Ciseaux
+Roche
+Roche
+Papier
+Ciseaux
+# Voulez-vous rejouer
+o
+# ------------------------------------------------------
+# Quatrième partie
+# ------------------------------------------------------
+6
+Jean
+Tremblay
+Bob
+Binette
+John
+Doe
+Roland
+Simard
+Justin
+Épais
+Marc
+Robitaille
+# affrontement 1.1
+Roche
+Papier
+# affrontement 1.2
+Ciseaux
+Roche
+# affrontement 1.3
+Papier
+Ciseaux
+# affrontement 2.1
+Roche
+Papier
+# affrontement 2.2
+Ciseaux
+Roche
+N

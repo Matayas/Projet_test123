@@ -1,0 +1,34 @@
+# Saisie vide
+
+# Saisie erronnée (V/F)
+Yo man!
+fAux
+# Saisie erronnée (Choix multiple)
+
+F
+-1
+A
+# Rponse valide (Choix multiple)
+d
+#
+
+violet el gros
+a
+a
+a
+a
+a
+a
+
+true
+vrai
+a
+a
+faux
+vrai
+Les portes
+b
+a
+Arnold le grand
+
+# fin du fichier intempestif, équivalent à si le joueur fait CTRL-D

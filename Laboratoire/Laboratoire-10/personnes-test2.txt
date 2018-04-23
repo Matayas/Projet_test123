@@ -1,0 +1,56 @@
+# -------------------------------------
+# Saisie de texte bidon
+# -------------------------------------
+asdasdasd
+# -------------------------------------
+# verifier saisies bidon
+# -------------------------------------
+modifier
+# --- nombre bidon ---------
+sdfsdf
+1
+ajouter
+Bob
+Binette
+# --- sexe bidon ------------
+extra-terrestre
+
+Homme
+ajouter
+Mallé
+Malette
+Femme
+# -------------------------------------
+# verifier saisie commandes
+# -------------------------------------
+# -- trop d'arguments --------
+executer bonne journée
+executer
+afficher
+# -- chemin invalide ---------
+sauvegarder wwe:\temp\maBd.data
+# -- chemin inexistant -
+sauvegarder w:\temp\maBd.data
+# -- pas assez d'arguments ---
+sauvegarder
+sauvegarder c:\temp\maBd.data
+# -- si le fichier existe déjà, ou saisie invalide --
+ouI
+charger wwe:\temp\maBd.data
+charger w:\temp\maBd.data
+charger
+charger c:\temp\maBd.data
+# -------------------------------------
+# verifier lecture fichier
+# -------------------------------------
+charger Laboratoire-10/maBdInvalide1.data aeswdtfcgds
+charger Laboratoire-10/maBdInvalide1.data ignorer-erreurs
+afficher
+ajouter
+Glenn
+Hall
+Homme
+executer
+afficher
+charger Laboratoire-10/maBdInvalide1.data
+afficher
